@@ -1,0 +1,8 @@
+bases/
+base/
+.xlsx
+.csv
+notebook/
+imagem/
+.ipynb*
+modelo*
